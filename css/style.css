@@ -24,6 +24,10 @@ header {
 main {
     height: 80vh;
     background-color: #f20db9;
+    color:aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer {
@@ -53,7 +57,7 @@ ul li a {
 
 }
 ul li a:hover {
-    color: #ffb366;
+    color: #ff80ff;
 
 }
 nav {
@@ -61,4 +65,34 @@ nav {
 
 }
 
+#logo {
+    width: 100px;
+    height: 100px;
+}
+#table-data {
+    background-color: #ffb366;
+    padding: 1em;
 
+
+}
+#table-data tr td {
+    padding: 0.5em;
+    font-size: 1.5em;
+}
+#table-data tr th {
+    padding: 0.5em;
+    font-size: 1.5em;
+    text-align: left; 
+    background-color:#b3b3ff ;
+    
+}
+.pink-row {
+    background-color: #cc00cc;
+}
+.green-row {
+    background-color: #208000;
+}
+table, th, td {
+    border: 1px solid 
+    
+}
