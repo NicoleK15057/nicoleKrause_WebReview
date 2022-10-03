@@ -21,7 +21,7 @@ header {
     padding: 0 20px;
 
 }
-main {
+.main {
     height: 80vh;
     background-color: #f20db9;
     color:aqua;
